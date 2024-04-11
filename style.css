@@ -1,0 +1,302 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+
+}
+
+.header-div {
+    border: 2px solid rgb(61, 66, 77);
+    padding: 10px;
+    background-color: rgb(61, 66, 77);
+    color: white;
+    margin: 5px;
+    padding: 10px;
+}
+
+.cl {
+    background-color: rgb(85, 89, 99);
+    border: 1px solid white;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.icon {
+    border: 1px solid red;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: brown;
+    overflow: hidden;
+}
+
+.left-box {
+    border: 3px solid rgb(240, 255, 240);
+    margin: 5px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 95%;
+}
+
+main {
+    margin: 0px 10px;
+}
+
+.right-box {
+    border: 3px solid rgb(240, 255, 240);
+    border-radius: 10px;
+}
+
+.icon1 {
+    height: 200px;
+    width: 200px;
+    border: 2px solid none;
+    margin-left: 5px;
+    padding: 8px;
+    background-color: rgb(228, 215, 191);
+    font-weight: 200;
+    font-family: 'Poppins';
+}
+
+.icon2 {
+    height: 40px;
+    width: 40px;
+    overflow: hidden;
+    font-weight: 200;
+    font-family: 'Poppins';
+}
+
+.icon22 {
+    height: 200px;
+    width: 200px;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.icon3 {
+    height: 40px;
+    width: 40px;
+    overflow: hidden;
+}
+
+.div1 {
+    border-top: 10px solid rgb(128, 195, 227);
+    border-bottom: 10px solid rgb(128, 195, 227);
+    border-radius: 10px;
+    margin: 0px 100px 0px 0px;
+    padding: 10px;
+    /* margin: 20px; */
+}
+
+.bgset {
+    border: 2px solid none;
+    background-color: rgb(254, 245, 227);
+    border-radius: 4px;
+
+}
+
+.course {
+    border: 2px solid rgb(250, 175, 25);
+    background-color: rgb(250, 175, 25);
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 200;
+    font-family: 'Poppins';
+}
+
+.course1 {
+    border: 2px solid rgb(255, 224, 130);
+    background-color: rgb(255, 224, 130);
+    padding: 10px;
+    color: black;
+
+    border-radius: 2px;
+    margin: 0px 2px;
+    font-weight: 200;
+    font-family: 'Poppins';
+}
+
+.course2 {
+    border: 2px solid rgb(245, 250, 255);
+    background-color: rgb(245, 250, 255);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course3 {
+    border: 2px solid rgb(240, 255, 240);
+    background-color: rgb(240, 255, 240);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course4 {
+    border: 2px solid rgb(255, 251, 245);
+    background-color: rgb(255, 251, 245);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course5 {
+    border: 2px solid rgb(245, 250, 255);
+    background-color: rgb(245, 250, 255);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course6 {
+    border: 2px solid rgb(245, 250, 255);
+    background-color: rgb(245, 250, 255);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course7 {
+    border: 2px solid rgb(240, 255, 240);
+    background-color: rgb(240, 255, 240);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course8 {
+    border: 2px solid rgb(255, 251, 245);
+    background-color: rgb(255, 251, 245);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course9 {
+    border: 2px solid rgb(245, 250, 255);
+    background-color: rgb(245, 250, 255);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course10 {
+    border: 2px solid rgb(240, 255, 240);
+    background-color: rgb(240, 255, 240);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course11 {
+    border: 2px solid rgb(255, 251, 245);
+    background-color: rgb(255, 251, 245);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.course12 {
+    border: 2px solid rgb(245, 250, 255);
+    background-color: rgb(245, 250, 255);
+    padding: 10px;
+    color: black;
+    border-radius: 2px;
+}
+
+.font-color1 {
+    font-weight: 200;
+    font-family: 'Poppins';
+}
+
+.top-bar {
+    border: 2px solid red;
+    padding: 8px;
+}
+
+.top-bar2 {
+    border: 2px solid red;
+    padding: 8px;
+}
+
+.top-bar3 {
+    border: 2px solid red;
+    padding: 8px;
+}
+
+.top-bar4 {
+    border: 2px solid red;
+    padding: 8px;
+}
+
+.top-bar5 {
+    border: 2px solid red;
+    padding: 8px;
+}
+
+/* add listing */
+.top-bar1 {
+    background-color: rgb(255, 224, 130);
+}
+
+.top-bar1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top-bar1 ul a {
+    text-decoration: none;
+    color: white;
+}
+
+.top-bar1 ul li {
+    display: inline-block;
+    margin-right: 20px;
+    padding: 20px 5px;
+}
+
+.top-bar1 ul li:hover {
+    border-bottom: 2px solid black;
+    color: black;
+}
+
+.an-tag a :hover {
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+}
+
+.head-top ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.head-top a {
+    text-decoration: none;
+    color: white;
+}
+
+.head-top ul li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.head-top ul a:hover {
+    border-bottom: 4px solid red;
+    color: white;
+    font-family: 'poppins';
+    font-weight: 300;
+    border-radius: 10px;
+}
